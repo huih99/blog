@@ -10,13 +10,13 @@ heroImageStyle: {
   borderRadius: '1rem',
 }
 isShowTitleInHome: false
-actionText: Guide
-actionLink: /views/other/guide
+actionText: 时光·旅行
+actionLink: /category/笔记
 features:
-- title: Yesterday
-  details: 开发一款看着开心、写着顺手的 vuepress 博客主题
-- title: Today
-  details: 希望帮助更多的人花更多的时间在内容创作上，而不是博客搭建上
-- title: Tomorrow
-  details: 希望更多的爱好者能够参与进来，帮助这个主题更好的成长
+- title: 昨天
+  details: 一直说要改变，可是总没有去执行
+- title: 现在
+  details: 做想做的事情，不要犹豫，果断前行
+- title: 未来
+  details: 遇见更优秀的自己
 ---
